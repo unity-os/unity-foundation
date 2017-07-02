@@ -1,1 +1,1 @@
-# FlightPlan - The framework upon which LamjungOS is developed
+# Foundation library for UnityOS 

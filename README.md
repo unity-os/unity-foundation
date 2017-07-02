@@ -1,2 +1,1 @@
-# unity-foundation
-Foundation library for Unity OS basedon POCO C++ library 
+# FlightPlan - The framework upon which LamjungOS is developed
